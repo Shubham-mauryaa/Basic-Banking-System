@@ -1,0 +1,26 @@
+#title{
+    font-weight: bold;
+    font-size: 3rem;
+    color: rgb(8, 22, 36);
+    position: relative;
+    font-family: 'Baloo Tammudu 2', cursive;
+    text-align: center;
+    color: rgba(27, 44, 77, 0.904);
+    margin-top: 2rem;
+}
+.logo{
+    display: flex;
+}
+
+#line{
+    height: 3px; 
+    width: 90%; 
+    margin: auto auto; 
+    margin-bottom: 3rem;
+}
+
+.middle{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
